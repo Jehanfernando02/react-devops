@@ -41,7 +41,7 @@ function App() {
         </button>
 
         <p className="text-xs text-gray-400 mt-6">
-          CI/CD Pipeline Demo Project
+          CI/CD Pipeline Demo Project + Docker
         </p>
       </div>
     </div>
